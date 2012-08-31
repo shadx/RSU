@@ -78,8 +78,13 @@
       
       <div class="bot_menu">
         <a href="#">About</a> |
+<<<<<<< HEAD
         <a href="#">Vidi deyatelnosti</a> |
+        <a href="#">Арматурный цех</a> |
+=======
+        <a href="#">Виды деятельности</a> |
         <a href="#">Arm</a> |
+>>>>>>> e56e0716aea7f737ad0be85d2b6a650b248adec5
         <a href="#">Objects building</a> |
         <a href="#">Contacts</a>
       </div>
